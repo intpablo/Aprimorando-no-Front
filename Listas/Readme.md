@@ -1,4 +1,17 @@
+#  LISTAS
+O HTML fornece suporte para a representação visual de três tipos de listas: as ordenadas, as não ordenadas e as de definição.
+1. Ordenadas
+   - Usadas quando desejamos listar dados com a necessidade de representar a sua ordenação de forma numérica ou alfabética.
+3. Não Ordenas
+   - Usadas quando não há necessidade de listar ordenadamente.
+5. De Definição
+   - Usadas quando precisamos listar itens e atribuirmos uma descrição a eles.
 
+
+
+ ⚠️ Outra característica importante das listas é que a sua marcação HTML é composta por uma tag de container, ou tag “pai”, e por seus itens ou “filhos”. Além disso, a lista de definição possui ainda um terceiro item, que é justamente o utilizado para descrevê-lo.
+
+## 
 | Tipo	  | Tag Container	 | Tag Item	    | Tag Descrição |
 |-------------|-------------|-------------|-----------|
 |Ordenadas    | `<ol>`      | ` <li> `     |-----------|
