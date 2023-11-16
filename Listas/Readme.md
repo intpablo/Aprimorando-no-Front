@@ -26,13 +26,36 @@ O HTML fornece suporte para a representação visual de três tipos de listas: a
 <li> Segundo Item da lista </li>    
 <li> Terceiro Item da lista </li>
 </ol>   
+
+<details>  <summary>Mostrar Código HTML</summary>
+  
+   ``` html 
+   <ol>                                    
+<li> Primeiro Item da lista </li>     
+<li> Segundo Item da lista </li>    
+<li> Terceiro Item da lista </li>
+</ol> 
+   ```
+</details>
  
 ### Lista Não Ordenada 
 <ul>
 <li> Primeiro Item da lista não ordenada </li>
 <li> Segundo Item da lista não ordenada </li>
 <li> Terceiro Item da lista não ordenada </li>
-</ul>
+</ul>   
+
+<details>  <summary>Mostrar Código HTML</summary>
+  
+   ``` html 
+   <ul>
+<li> Primeiro Item da lista não ordenada </li>
+<li> Segundo Item da lista não ordenada </li>
+<li> Terceiro Item da lista não ordenada </li>
+</ul>  
+   ```
+</details>
+ 
 
 ### Lista de definição 
 <dl>
@@ -42,4 +65,18 @@ O HTML fornece suporte para a representação visual de três tipos de listas: a
 <dd> Descrição do segundo elemento </dd>
 <dt> Terceiro Item da lista não ordenada </dt>
 <dd> Descrição do terceiro elemento </dd>
+</dl>    
+
+<details>  <summary>Mostrar Código HTML</summary>
+  
+   ``` html 
+    <dl>
+<dt> Primeiro Item da lista não ordenada </dt>
+<dd> Descrição do primeiro elemento </dd>
+<dt> Segundo Item da lista não ordenada </dt>
+<dd> Descrição do segundo elemento </dd>
+<dt> Terceiro Item da lista não ordenada </dt>
+<dd> Descrição do terceiro elemento </dd>
 </dl>
+   ```
+</details>
